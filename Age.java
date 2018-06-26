@@ -3,6 +3,7 @@ package mypackage;
 public class Age {
 	
 	private int date;
+	private int number;
 	private String month;
 	private int year;
 	public int getDate() {
